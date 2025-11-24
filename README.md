@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: My cat is named Morgana. He is my son
 -->
-- 🔭 I’m currently working on a Mobil App
+- 🔭 I’m currently working on a Mobile App
 - 🌱 I’m currently learning Kotlin and Java.
 - 💬 Ask me about how we can contribute to the world
 - 📫 How to reach me: Kclarkmielke@gmail.com
